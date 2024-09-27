@@ -49,3 +49,4 @@ dependencies:
       - pandas
       - matplotlib
       - plotly
+      - wfdb
