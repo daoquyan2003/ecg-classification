@@ -28,3 +28,4 @@ tqdm
 pandas
 matplotlib
 plotly
+wfdb
